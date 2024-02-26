@@ -29,3 +29,13 @@ function three() {
     "<img src='./img/Picture6.jpg'  style='height: 200px; width: 200px' alt='' />"
   );
 }
+function four() {
+  document.write(
+    "<img src='./img/bike.png'  style='height: 200px; width: 200px' alt='' />"
+  );
+}
+function five() {
+  document.write(
+    "<img src='./img/car.jpg'  style='height: 200px; width: 200px' alt='' />"
+  );
+}
